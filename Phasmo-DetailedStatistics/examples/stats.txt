@@ -1,0 +1,142 @@
+---Player---
+amountOfBonesCollected          576
+distanceTravelled               471845.281
+sanityLost                      56157.16
+sanityGained                    3816.39819
+phrasesRecognized               121
+timeSpentInvestigating          463377.7
+timeSpentInDark                 278026
+timeSpentInLight                153393.984
+timeSpentInTruck                42982.5078
+timeSpentInGhostsRoom           142503.313
+timeSpentBeingChased            8328.686
+ghostsRepelled                  799
+photosTaken                     434
+videosTaken                     118
+soundsTaken                     1510
+diedAmount                      204
+revivedAmount                   2
+moneyEarned                     925720
+moneySpent                      657170
+itemsBought                     1828
+itemsLost                       1128
+ghostsIdentifiedAmount          556
+ghostsMisidentifiedAmount       193
+objectivesCompleted             2197
+amountOfCursedPossessionsUsed   47
+amountOfCursedHuntsTriggered    26
+
+---Ghost---
+ghostDistanceTravelled      269457.75
+amountOfGhostInteractions   40353
+doorsMoved                  6408
+objectsUsed                 2116
+lightsSwitched              607
+fuseboxToggles              314
+amountOfGhostEvents         1819
+abilitiesUsed               1522
+roomChanged                 480
+timeInFavouriteRoom         360800.281
+amountOfGhostHunts          1311
+totalHuntTime               43764.87
+
+---Maps---
+Sunny Meadows Restricted   660
+Grafton Farmhouse          2
+Camp Woodwind              67
+Bleasdale Farmhouse        4
+13 Willow Street           3
+6 Tanglewood Drive         5
+Asylum                     1
+10 Ridgeview Court         1
+Point Hope                 5
+Prison                     1
+
+---GhostKills---
+Mimic         4
+Revenant      12
+Thaye         4
+Phantom       10
+Yokai         11
+Yurei         12
+Poltergeist   10
+Moroi         13
+Spirit        4
+Myling        6
+Banshee       9
+Oni           6
+Wraith        9
+Shade         5
+Obake         9
+Hantu         11
+Raiju         8
+Deogen        4
+Onryo         14
+Goryo         5
+Jinn          11
+Mare          5
+TheTwins      9
+Demon         13
+
+---GhostEncounters---
+Mimic         33
+Revenant      31
+Thaye         39
+Phantom       32
+Yokai         32
+Yurei         39
+Poltergeist   21
+Moroi         34
+Spirit        24
+Myling        19
+Banshee       36
+Oni           29
+Wraith        35
+Shade         23
+Obake         34
+Hantu         25
+Raiju         31
+Deogen        40
+Onryo         32
+Goryo         32
+Jinn          35
+Mare          29
+TheTwins      35
+Demon         29
+
+---Bones---
+Fibula    54
+Radius    38
+Ribcage   46
+Scapula   38
+Femur     41
+Pelvis    49
+Skull     40
+Jaw       45
+Humerus   50
+Ulna      44
+Hand      35
+Foot      52
+Spine     49
+
+---CursedObjects---
+MusicBoxesFound        32
+MonkeyPawFound         38
+MirrorsFound           67
+SummoningCirclesUsed   10
+VoodoosFound           63
+OuijasFound            42
+
+---Tarot---
+TotalCardsDrawn   83
+TarotWheel        19
+TarotDeath        11
+TarotTower        15
+TarotFool         14
+TarotHangedMan    2
+TarotHermit       9
+TarotDevil        4
+TarotMoon         6
+TarotSun          2
+TarotPriestess    1
+
